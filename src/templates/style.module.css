@@ -141,3 +141,48 @@
     width: 22rem;
     height: 28rem;
 }
+
+.canvas {
+    width: 6px;
+    height: 6px;
+    box-shadow:
+        51px 0 black,
+        57px 0 black,
+        63px 0 black,
+        69px 0 black,
+        75px 0 black,
+        81px 0 black,
+        87px 0 black,
+        93px 0 black,
+        99px 0 black,
+        105px 0 black,
+        111px 0 black,
+        117px 0 black,
+        123px 0 black,
+        129px 0 black,
+        135px 0 black,
+        141px 0 black,
+        147px 0 black,
+        153px 0 black,
+        159px 0 black,
+        165px 0 black,
+        171px 0 black,
+        177px 0 black,
+        183px 0 black,
+        189px 0 black,
+        195px 0 black,
+        201px 0 black,
+        207px 0 black,
+        213px 0 black,
+        219px 0 black,
+        225px 0 black,
+        231px 0 black,
+        237px 0 black,
+        243px 0 black,
+        249px 0 black,
+        255px 0 black,
+        261px 0 black,
+        267px 0 black,
+        273px 0 black,
+        279px 0 black
+}

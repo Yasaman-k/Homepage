@@ -89,7 +89,7 @@ function BlogPostTemplate(props) {
               </div>
               <Animation type="fadeLeft" delay={200}>
                 <div className={classes.IranMapContainer}>
-
+                  <div className={classes.canvas}></div>
                 </div>
               </Animation>
             </div>
